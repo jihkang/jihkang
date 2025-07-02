@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=jihkang&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Jihkang&fontSize=80)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&background=FFFFFF00&center=true&vCenter=true&random=false&width=875&height=25&lines=as+known+as+Eunryong)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&background=FFFFFF00&center=true&vCenter=true&random=false&width=875&height=25&lines=as+known+as+Jihkang)](https://git.io/typing-svg)
 
 <br/>
 
@@ -23,10 +23,10 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mallangcoogi)](https://solved.ac/mallangcoogi)
 
 ### ✔️ ɢɪᴛʜᴜʙ sᴛᴀᴛs ✔️
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eunryong&show_icons=true&theme=radical)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eunryong&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jihkang&show_icons=true&theme=radical)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jihkang&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 
 ### ✔️ ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴs ✔️
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Eunryong&theme=react&custom_title=힘내서%20커밋)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jihkang&theme=react&custom_title=힘내서%20커밋)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jihkang&theme=nord&card_width=500&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
