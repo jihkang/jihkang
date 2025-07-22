@@ -1,33 +1,77 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Jihkang&fontSize=80)
+<h1 align="center">Hi 👋 I'm Kang Jiho (강지호)</h1>
+<p align="center">
+C++, C#, Python 기반의 <strong>실시간 시스템 및 알고리즘 최적화</strong>를 주로 다룹니다.<br />
+현재는 <strong>WPF 기반 C# 개발 및 메쉬 알고리즘 고도화</strong>에 집중하고 있으며,<br />
+과거에는 <strong>AI 멀티에이전트 시스템 및 실시간 채팅 서버</strong>를 구현했습니다.
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&background=FFFFFF00&center=true&vCenter=true&random=false&width=875&height=25&lines=as+known+as+Jihkang)](https://git.io/typing-svg)
+---
 
-<br/>
+## 🔧 Tech Stack
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjihkang&count_bg=%23FF0000&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+- **Languages:** C++, C#, Python, TypeScript  
+- **Frameworks:** Django, FastAPI, React, Next.js, WPF  
+- **Tools:** Git, Docker, GitHub Actions, Figma, Power BI  
+- **Communication:** WebSocket, REST API, asyncio, aiohttp
 
-### 😀 ᴀʙᴏᴜᴛ ᴍᴇ 😀
+---
 
-![42 Badge](http://img.shields.io/badge/-42seoul-black?style=for-the-badge&logo=42&link=https://profile.intra.42.fr/users/jihkang)<!--&fontSize=90&animation=twinkling&descAlignY=80&customColorList=0,1,1,1,1,1)-->
+## 🚀 Featured Projects
 
-![Jihkang's 42 stats](https://badge.mediaplus.ma/darkblue/jihkang?1337Badge=off&UM6P=off)
+### 🧠 [AI Multi Agent System](https://github.com/jihkang/agent) (2025.03 ~ 2025.05)
+다중 에이전트 기반 AI 통신 시스템
 
-### 💚 ɪ ᴄᴀɴ 💚
-<div>
-<img src="https://img.shields.io/badge/C-%20?style=for-the-badge&logo=C&logoColor=black&color=%23A8B9CC">
-<img src="https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=cplusplus"/>
-<img src="https://img.shields.io/badge/Python-FF00FF?style=for-the-badge&logo=python&logoColor=black"/>
-<img src="https://img.shields.io/badge/Javascript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black" />
-</div>
+- FastAPI + WebSocket 기반 비동기 스트리밍 서버 구현
+- PlanningAgent / ToolAgent / ExecutionAgent 로 역할 분리
+- 메시지 큐 및 상태 캐시 구조 설계 → 실시간 메시지 흐름 제어
+- LLM 연동 (Google Gemini, Llama) 통한 자연어 명령 파이프라인 처리
 
-### ❤ ɪ ʟᴏᴠᴇ ❤
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mallangcoogi)](https://solved.ac/mallangcoogi)
+---
 
-### ✔️ ɢɪᴛʜᴜʙ sᴛᴀᴛs ✔️
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jihkang&show_icons=true&theme=radical)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jihkang&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+### 🕹️ [Transcendence](https://github.com/jihkang/transendence) (2023.06 ~ 2023.07)
+실시간 게임/채팅/소셜 SPA 플랫폼
 
-### ✔️ ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴs ✔️
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jihkang&theme=react&custom_title=힘내서%20커밋)](https://github.com/ashutosh00710/github-readme-activity-graph)
+- NestJS + React 기반 게임 API 및 통신 구조 설계
+- Socket.IO로 게임 상태 동기화 및 실시간 채팅 처리
+- PostgreSQL, Docker Compose 기반 환경 구성
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jihkang&theme=nord&card_width=500&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+---
+
+### 💬 [IRC Chat Server](https://github.com/jihkang/42cursor/tree/main/irc_git) (2023.04 ~ 2023.05)
+C++ 기반 kqueue 소켓 서버
+
+- Server, Handler, Command, DB 4계층 구조로 설계
+- 옵저버 패턴 직접 구현 → 채널 사용자에게 메시지 브로드캐스트
+- select + kqueue 기반 비동기 처리 구조 설계
+
+---
+
+## 💼 Work Experience
+
+### 🏢 알고리즘 코리아 (2024.07 ~ 현재)
+- BevelFiletting 등 메쉬 알고리즘 고도화 및 최적화
+- 여러 개의 메쉬 통합, 복제 삼각형 제거, 충돌부 돌출 제거 등 문제 해결 알고리즘 개발
+- 외부 라이브러리 의존성 제거 및 테스트베드 구축
+- 메시지 핸들링 시스템 및 UI 대시보드 (WPF) 구현
+
+---
+
+## 🎓 Education
+
+- 42Seoul (2022.08 ~ 2024.07)  
+  프로젝트 기반 Peer Learning: C, C++, OS, 네트워크, 멀티스레딩 등 집중 학습
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jihkang&show_icons=true&theme=tokyonight" alt="jihkang's GitHub stats" />
+</p>
+
+---
+
+## 📫 Contact
+
+- Email: jihkang.dev@gmail.com  
+- GitHub: [https://github.com/jihkang](https://github.com/jihkang)
