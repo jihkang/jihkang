@@ -40,9 +40,8 @@ C++, C#, Python 기반의 <strong>실시간 시스템 및 알고리즘 최적화
 ### 💬 [IRC Chat Server](https://github.com/jihkang/42cursor/tree/main/irc_git) (2023.04 ~ 2023.05)
 C++ 기반 kqueue 소켓 서버
 
-- Server, Handler, Command, DB 4계층 구조로 설계
-- 옵저버 패턴 직접 구현 → 채널 사용자에게 메시지 브로드캐스트
-- select + kqueue 기반 비동기 처리 구조 설계
+- Server, Handler, Command, DB 4계층 구조로 설계, 구현
+- select + kqueue 기반 비동기 처리 구조 설계, 구현
 
 ---
 
