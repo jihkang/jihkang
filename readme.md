@@ -11,7 +11,7 @@ C++, C#, Python 기반의 <strong>실시간 시스템 및 알고리즘 최적화
 
 - **Languages:** C++, C#, Python, TypeScript  
 - **Frameworks:** Django, FastAPI, React, Next.js, WPF  
-- **Tools:** Git, Docker, GitHub Actions, Figma, Power BI  
+- **Tools:** Git, Docker, GitHub Actions 
 - **Communication:** WebSocket, REST API, asyncio, aiohttp
 
 ---
