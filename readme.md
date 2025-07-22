@@ -72,6 +72,6 @@ C++ 기반 kqueue 소켓 서버
 ---
 
 ## 📫 Contact
-
-- Email: jihkang.dev@gmail.com  
+- Blog: mal-o.tistory.com
+- Email: mallangcoogi@gmail.com  
 - GitHub: [https://github.com/jihkang](https://github.com/jihkang)
