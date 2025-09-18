@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋 I'm Kang Jiho (강지호)</h1>
 <p align="center">
-C++, C#, Python 기반의 <strong>실시간 시스템 및 알고리즘 최적화</strong>를 주로 다룹니다.<br />
-현재는 <strong>WPF 기반 C# 개발 및 메쉬 알고리즘 고도화</strong>에 집중하고 있으며,<br />
-과거에는 <strong>AI 멀티에이전트 시스템 및 실시간 채팅 서버</strong>를 구현했습니다.
+C++, C#, Python, Typescript를 주로 사용합니다<br />
+<strong>AI 멀티에이전트 시스템 및 실시간 채팅 서버</strong>를 구현했습니다.
 </p>
 
 ---
