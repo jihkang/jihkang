@@ -1,92 +1,75 @@
-<h1 align="center">Kang Jiho (강지호)</h1>
+<h1 align="center">Hi 👋 I'm Kang Jiho (강지호)</h1>
 <p align="center">
-검증 가능한 AI 실행 시스템과 geometry/mesh 알고리즘을 만드는 소프트웨어 엔지니어입니다.
+C++, C#, Python, Typescript를 주로 사용합니다<br />
+<strong>AI 멀티에이전트 시스템 및 실시간 채팅 서버</strong>를 구현했습니다.
 </p>
 
 ---
 
-## About
+## 🔧 Tech Stack
 
-- 현재 알고리즘 코리아에서 C++/C# 기반 geometry/mesh processing 알고리즘, 테스트 환경, 운영 도구를 개발하고 있습니다.
-- 최근에는 개인 프로젝트로 [Sisyphus](https://github.com/jihkang/Sisyphus)를 만들고 있습니다. 목표는 AI가 그럴듯하게 말하는 시스템이 아니라, 실제 변경을 남기고 재현 가능하게 검증할 수 있는 작업 시스템을 만드는 것입니다.
-- 관심 분야는 AI agent infrastructure, reproducible execution, task orchestration, verification, MCP, realtime systems 입니다.
-
----
-
-## Current Focus
-
-### Sisyphus (2026 ~ )
-AI 작업을 운영 가능한 형태로 바꾸는 execution layer
-
-- 계획, 브랜치, worktree, 실행, 검증, 종료까지 task lifecycle 전체를 기록
-- conformance 추적, event bus, MCP server, verification/close workflow 구현
-- direct change adoption과 self-evolution/evaluation loop 아키텍처까지 확장
-- 핵심은 자동화 자체보다, 사람이 결과를 이해하고 다시 따라가고 검사할 수 있게 만드는 것
+- **Languages:** C++, C#, Python, TypeScript  
+- **Frameworks:** Django, FastAPI, React, Next.js, WPF  
+- **Tools:** Git, Docker, GitHub Actions 
+- **Communication:** WebSocket, REST API, asyncio, aiohttp
 
 ---
 
-## Work Experience
+## 🚀 Featured Projects
 
-### 알고리즘 코리아 (2024.07 ~ 현재)
-
-- C++ 기반 mesh/geometry 알고리즘 고도화 및 최적화
-- 여러 mesh 통합, duplicate triangle 제거, 충돌부 보정 등 문제 해결 알고리즘 개발
-- 외부 라이브러리 의존성 축소 및 테스트베드 구축
-- WPF 기반 메시지 핸들링 시스템과 내부 운영 대시보드 구현
-
----
-
-## Selected Projects
-
-### [AI Multi Agent System](https://github.com/jihkang/agent) (2025.03 ~ 2025.05)
+### 🧠 [AI Multi Agent System](https://github.com/jihkang/agent) (2025.03 ~ 2025.05)
 다중 에이전트 기반 AI 통신 시스템
 
 - FastAPI + WebSocket 기반 비동기 스트리밍 서버 구현
-- PlanningAgent / ToolAgent / ExecutionAgent 역할 분리
-- 메시지 큐 및 상태 캐시 구조 설계로 실시간 메시지 흐름 제어
-- Gemini, Llama 기반 자연어 명령 처리 파이프라인 구성
+- PlanningAgent / ToolAgent / ExecutionAgent 로 역할 분리
+- 메시지 큐 및 상태 캐시 구조 설계 → 실시간 메시지 흐름 제어
+- LLM 연동 (Google Gemini, Llama) 통한 자연어 명령 파이프라인 처리
 
-### [Transcendence](https://github.com/jihkang/transendence) (2023.06 ~ 2023.07)
+---
+
+### 🕹️ [Transcendence](https://github.com/jihkang/transendence) (2023.06 ~ 2023.07)
 실시간 게임/채팅/소셜 SPA 플랫폼
 
 - NestJS + React 기반 게임 API 및 통신 구조 설계
-- Socket.IO 기반 게임 상태 동기화 및 실시간 채팅 처리
-- PostgreSQL, Docker Compose 기반 실행 환경 구성
+- Socket.IO로 게임 상태 동기화 및 실시간 채팅 처리
+- PostgreSQL, Docker Compose 기반 환경 구성
 
-### [IRC Chat Server](https://github.com/jihkang/42cursor/tree/main/irc_git) (2023.04 ~ 2023.05)
+---
+
+### 💬 [IRC Chat Server](https://github.com/jihkang/42cursor/tree/main/irc_git) (2023.04 ~ 2023.05)
 C++ 기반 kqueue 소켓 서버
 
-- Server, Handler, Command, DB 구조로 계층 분리
-- select + kqueue 기반 비동기 처리 구조 설계 및 구현
+- Server, Handler, Command, DB 4계층 구조로 설계, 구현
+- select + kqueue 기반 비동기 처리 구조 설계, 구현
 
 ---
 
-## Principles
+## 💼 Work Experience
 
-- 저는 "잘 답하는 AI"보다 "검증 가능한 방식으로 실제 시스템을 바꾸는 AI"에 더 관심이 있습니다.
-- 자동화 이후에도 사람이 결과를 이해하고 재현하고 검사할 수 있어야 한다고 생각합니다.
-- 재현성, 검증 가능성, 운영 가능성을 우선합니다.
-
----
-
-## Tech Stack
-
-- Languages: C++, C#, Python, TypeScript
-- Frameworks: FastAPI, Django, React, Next.js, WPF
-- Infra/Tools: Git, Docker, GitHub Actions
-- Communication: WebSocket, REST API, asyncio, aiohttp
+### 🏢 알고리즘 코리아 (2024.07 ~ 현재)
+- BevelFiletting 등 메쉬 알고리즘 고도화 및 최적화
+- 여러 개의 메쉬 통합, 복제 삼각형 제거, 충돌부 돌출 제거 등 문제 해결 알고리즘 개발
+- 외부 라이브러리 의존성 제거 및 테스트베드 구축
+- 메시지 핸들링 시스템 및 UI 대시보드 (WPF) 구현
 
 ---
 
-## Education
+## 🎓 Education
 
-- 42Seoul (2022.08 ~ 2024.07)
-  프로젝트 기반 Peer Learning으로 C, C++, OS, 네트워크, 멀티스레딩을 집중 학습
+- 42Seoul (2022.08 ~ 2024.07)  
+  프로젝트 기반 Peer Learning: C, C++, OS, 네트워크, 멀티스레딩 등 집중 학습
 
 ---
 
-## Contact
+## 📈 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jihkang&show_icons=true&theme=tokyonight" alt="jihkang's GitHub stats" />
+</p>
+
+---
+
+## 📫 Contact
 - Blog: [https://mal-o.tistory.com](https://mal-o.tistory.com)
-- Email: mallangcoogi@gmail.com
+- Email: mallangcoogi@gmail.com  
 - GitHub: [https://github.com/jihkang](https://github.com/jihkang)
