@@ -7,7 +7,7 @@
 
 ## About
 
-- 현재 알고리즘 코리아에서 C++/C# 기반 geometry/mesh processing 알고리즘, 테스트 환경, 운영 도구를 개발하고 있습니다.
+- 2025년 11월부터 2026년 4월까지 voyagergames에서 AI 백엔드 및 시스템 엔지니어링을 담당했고, 그 이전에는 2024년 7월부터 2025년 10월까지 Algorithm Korea에서 geometry/mesh processing 알고리즘과 내부 도구를 개발했습니다.
 - 최근에는 개인 프로젝트로 [Sisyphus](https://github.com/jihkang/Sisyphus)를 만들고 있습니다. 목표는 AI가 그럴듯하게 말하는 시스템이 아니라, 실제 변경을 남기고 재현 가능하게 검증할 수 있는 작업 시스템을 만드는 것입니다.
 - 관심 분야는 AI agent infrastructure, reproducible execution, task orchestration, verification, MCP, realtime systems 입니다.
 
@@ -27,8 +27,16 @@ AI 작업을 운영 가능한 형태로 바꾸는 execution layer
 
 ## Work Experience
 
-### 알고리즘 코리아 (2024.07 ~ 현재)
+### voyagergames (2025.11 ~ 2026.04)
 
+- Application Engineer
+- 대규모 동시 접속 환경에서 Room 시스템 병목을 분석하고 DB join 구조를 재설계해 처리량을 약 150 TPS에서 250 TPS로 개선
+- FSM 기반 에이전트 오케스트레이션과 유사도/확률 기반 라우팅 로직으로 LLM 응답 흐름을 구조화
+- FastAPI 기반 비동기 API 및 PromptOps 운영 환경 구축
+
+### Algorithm Korea (2024.07 ~ 2025.10)
+
+- Software Engineer
 - C++ 기반 mesh/geometry 알고리즘 고도화 및 최적화
 - 여러 mesh 통합, duplicate triangle 제거, 충돌부 보정 등 문제 해결 알고리즘 개발
 - 외부 라이브러리 의존성 축소 및 테스트베드 구축
@@ -82,6 +90,14 @@ C++ 기반 kqueue 소켓 서버
 
 - 42Seoul (2022.08 ~ 2024.07)
   프로젝트 기반 Peer Learning으로 C, C++, OS, 네트워크, 멀티스레딩을 집중 학습
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jihkang&show_icons=true&theme=tokyonight" alt="jihkang's GitHub stats" />
+</p>
 
 ---
 
