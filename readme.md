@@ -1,6 +1,6 @@
 <h1 align="center">Kang Jiho (강지호)</h1>
 <p align="center">
-검증 가능한 AI 실행 시스템과 geometry/mesh 알고리즘을 만드는 소프트웨어 엔지니어입니다.
+검증 가능한 AI 실행 시스템을 만드는 소프트웨어 엔지니어입니다.
 </p>
 
 ---
