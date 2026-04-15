@@ -95,9 +95,7 @@ C++ 기반 kqueue 소켓 서버
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jihkang&show_icons=true&theme=tokyonight" alt="jihkang's GitHub stats" />
-</p>
+![jihkang's GitHub stats](assets/github-stats.svg)
 
 ---
 
