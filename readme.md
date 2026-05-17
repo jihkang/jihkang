@@ -6,7 +6,8 @@
 ---
 
 ## About
-
+- 2026년 5월 부터 방위산업 관련 업체에서 일을 시작했습니다.
+  
 - 2025년 11월부터 2026년 4월까지 voyagergames에서 AI 백엔드 및 시스템 엔지니어링을 담당했고, 그 이전에는 2024년 7월부터 2025년 10월까지 Algorithm Korea에서 geometry/mesh processing 알고리즘과 내부 도구를 개발했습니다.
 - 최근에는 개인 프로젝트로 [Sisyphus](https://github.com/jihkang/Sisyphus)를 만들고 있습니다. 목표는 AI가 그럴듯하게 말하는 시스템이 아니라, 실제 변경을 남기고 재현 가능하게 검증할 수 있는 작업 시스템을 만드는 것입니다.
 - 관심 분야는 AI agent infrastructure, reproducible execution, task orchestration, verification, MCP, realtime systems 입니다.
@@ -26,6 +27,10 @@ AI 작업을 운영 가능한 형태로 바꾸는 execution layer
 ---
 
 ## Work Experience
+
+### ??? (2026.05 ~ )
+- SWE 로 업무를 시작하게 되었습니다. 
+
 
 ### voyagergames (2025.11 ~ 2026.04)
 
