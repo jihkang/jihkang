@@ -28,7 +28,7 @@ AI 작업을 운영 가능한 형태로 바꾸는 execution layer
 
 ## Work Experience
 
-### ??? (2026.05 ~ )
+### ENDCS (2026.05 ~ )
 - SWE 로 업무를 시작하게 되었습니다. 
 
 
